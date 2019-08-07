@@ -1,0 +1,9 @@
+﻿################################################################################
+# Bu .gitignore dosyası Microsoft(R) Visual Studio tarafından otomatik olarak oluşturulmuştur.
+################################################################################
+
+/.vs/taralsa/v15/Server/sqlite3/storage.ide-wal
+/packages/EntityFramework.6.2.0/Content/net40/App.config.transform
+/packages/EntityFramework.6.2.0/Content/net40/Web.config.transform
+/packages/EntityFramework.6.2.0/EntityFramework.6.2.0.nupkg
+/.vs/taralsa/v15/Server/sqlite3/db.lock

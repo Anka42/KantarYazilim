@@ -1,2 +1,0 @@
-# KantarYazilim
-Kantar Programı
