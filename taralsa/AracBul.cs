@@ -9,16 +9,13 @@ using System.Windows.Forms;
 
 namespace taralsa
 {
-    public partial class Form2 : Form
+    public partial class AracBul : Form
     {
-        public Form2()
+        public AracBul()
         {
             InitializeComponent();
         }
 
-        private void Label1_Click(object sender, EventArgs e)
-        {
-
-        }
+  
     }
 }

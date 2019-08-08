@@ -85,17 +85,17 @@
     <Compile Include="Class\Raporlar.cs" />
     <Compile Include="Class\SabitDaraCls.cs" />
     <Compile Include="Class\SevkYeriCls.cs" />
-    <Compile Include="Form2.cs">
+    <Compile Include="AracBul.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
+    <Compile Include="AracBul.Designer.cs">
+      <DependentUpon>AracBul.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form3.cs">
+    <Compile Include="TartimBilgi.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form3.Designer.cs">
-      <DependentUpon>Form3.cs</DependentUpon>
+    <Compile Include="TartimBilgi.Designer.cs">
+      <DependentUpon>TartimBilgi.cs</DependentUpon>
     </Compile>
     <Compile Include="frmgiris.cs">
       <SubType>Form</SubType>
@@ -141,11 +141,11 @@
     <EmbeddedResource Include="CariUnvan.resx">
       <DependentUpon>CariUnvan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.cs</DependentUpon>
+    <EmbeddedResource Include="AracBul.resx">
+      <DependentUpon>AracBul.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form3.resx">
-      <DependentUpon>Form3.cs</DependentUpon>
+    <EmbeddedResource Include="TartimBilgi.resx">
+      <DependentUpon>TartimBilgi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmgiris.resx">
       <DependentUpon>frmgiris.cs</DependentUpon>

@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace taralsa
 {
-    public partial class Form3 : Form
+    public partial class TartimBilgi : Form
     {
-        public Form3()
+        public TartimBilgi()
         {
             InitializeComponent();
         }

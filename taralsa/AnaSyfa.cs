@@ -18,7 +18,7 @@ namespace taralsa
 
         private void aracÇıkışıToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Form2 frm2 = new Form2();
+            AracBul frm2 = new AracBul();
             frm2.Show();
 
         }
@@ -32,7 +32,7 @@ namespace taralsa
 
         private void sabitDaralıAraçlarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Form3 frm3 = new Form3();
+            TartimBilgi frm3 = new TartimBilgi();
             frm3.Show();
         }
 
@@ -76,27 +76,6 @@ namespace taralsa
         {
             SevkYeri sevk1 = new SevkYeri();
             sevk1.Show();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            this.Close();
-            Application.Exit();
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            if (panel1.Height==50)
-            {
-                this.WindowState = FormWindowState.Maximized;
-                panel1.Height = 51;
-            }
-            else 
-            {
-                this.WindowState = FormWindowState.Normal;
-                panel1.Height = 50;
-            }
-            
         }
 
         private void raporlarToolStripMenuItem_Click(object sender, EventArgs e)

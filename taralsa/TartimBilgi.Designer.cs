@@ -1,6 +1,6 @@
 ﻿namespace taralsa
 {
-    partial class Form3
+    partial class TartimBilgi
     {
         /// <summary>
         /// Required designer variable.
@@ -326,7 +326,7 @@
             this.textBox21.Size = new System.Drawing.Size(100, 20);
             this.textBox21.TabIndex = 31;
             // 
-            // Form3
+            // TartimBilgi
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -363,7 +363,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form3";
+            this.Name = "TartimBilgi";
             this.Text = "Tüm Tartım Bilgileri Raporu";
             this.ResumeLayout(false);
             this.PerformLayout();
